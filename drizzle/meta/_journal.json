@@ -1,0 +1,55 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1694026638137,
+      "tag": "0000_funny_blue_shield",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1694150790175,
+      "tag": "0001_closed_rhodey",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1694151242121,
+      "tag": "0002_lumpy_microbe",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1694151862046,
+      "tag": "0003_worthless_archangel",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1694152058846,
+      "tag": "0004_nervous_old_lace",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1694461835698,
+      "tag": "0005_ambiguous_thing",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1694462666936,
+      "tag": "0006_perpetual_rocket_racer",
+      "breakpoints": true
+    }
+  ]
+}
